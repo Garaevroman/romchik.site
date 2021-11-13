@@ -1,0 +1,48 @@
+body	{
+	margin: 0 auto;
+	margin-left: 10px;
+	font-family: Montserrat;
+}
+h1,h2,h3,h4,h5,h6	{
+	color: #fff;
+}
+h1	{
+	color: red;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+p {
+	font-size: 20px;
+}
+.onedz	{
+	width: 120px;
+	height: 100px;
+	background-color: blue;
+	margin-bottom: 120px;
+}
+p span	{
+	color: red;
+}
+.oneh	{
+	padding-left: 10px;
+	font-size: 25px;
+	background-color: green;
+}
+.twoh	{
+	padding: 45px;
+	background-color: green;
+}
+.can	{
+	margin-left: 100px;
+}
+.test li {
+	font-size: 35px;
+	border: 2px solid black;
+}
+.threeh	{
+	background-color: green;
+}
+.verticalLine {
+  border-left:  solid #ff0000;
+  height: 1000px;
+}
